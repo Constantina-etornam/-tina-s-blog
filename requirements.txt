@@ -1,4 +1,1 @@
- Django~=5.1.2
- //manage.py - helps manage the site
-
- 
+Django~=5.1.2
